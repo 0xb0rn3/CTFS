@@ -13,8 +13,10 @@ A growing collection of purpose-built automation tools that capture the full exp
 CTFS/
 ├── THM/                          # TryHackMe rooms
 │   ├── rootmeCTF/
-│   │   ├── rootmeautopwn         # RootMe full autopwn
+│   │   ├── rootmeautopwn         
 │   │   └── README.md
+│   ├── Hidden_Deep_Into_My_Heart/
+│   │   ├──exploit.py         
 │   └── ...
 ├── HTB/                          # Hack The Box machines (coming)
 │   └── ...
